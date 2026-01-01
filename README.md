@@ -1,2 +1,10 @@
-# mHC-Manifold-Constrained-Hyper-Connections
-impl of hyper-connections
+## Own impl of mHC-Manifold-Constrained-Hyper-Connections
+
+Jax implementation
+
+
+
+
+MIT License
+
+
